@@ -8,3 +8,6 @@ Key skills include **hard skills** such as programming languages, data structure
 
 # Proof Reading
 Article checked for typos
+
+## Comment by Jaehyeon Kim (jk7404)
+This is a good introduction to the field of software engineering.
