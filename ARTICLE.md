@@ -11,3 +11,6 @@ Article checked for typos
 
 ## Comment by Jaehyeon Kim (jk7404)
 This is a good introduction to the field of software engineering.
+
+## Comment by Hyun (hn2264)
+This is the most boring article ever.
